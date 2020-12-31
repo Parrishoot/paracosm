@@ -13,7 +13,6 @@
     {"id":{"name":"fCombatName","path":"fonts/fCombatName/fCombatName.yy",},"order":1,},
     {"id":{"name":"fCombatHealth","path":"fonts/fCombatHealth/fCombatHealth.yy",},"order":0,},
     {"id":{"name":"sPlayerCombat","path":"sprites/sPlayerCombat/sPlayerCombat.yy",},"order":1,},
-    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":0,},
     {"id":{"name":"sBackground1","path":"sprites/sBackground1/sBackground1.yy",},"order":4,},
     {"id":{"name":"sVingnette","path":"sprites/sVingnette/sVingnette.yy",},"order":6,},
     {"id":{"name":"oEnemyCombatController","path":"objects/oEnemyCombatController/oEnemyCombatController.yy",},"order":2,},
