@@ -127,8 +127,8 @@
   "canGenerateBitmap": true,
   "maintainGms1Font": false,
   "parent": {
-    "name": "Combat",
-    "path": "folders/Fonts/Combat.yy",
+    "name": "Notes",
+    "path": "folders/Notes.yy",
   },
   "resourceVersion": "1.0",
   "name": "fCombatWindow",
